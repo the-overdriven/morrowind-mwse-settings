@@ -10,12 +10,12 @@
     "maxX":23
   },
   "useSearchSouls":true,
+  "transferItemsByDefault":true,
+  "useSearchTypes":true,
+  "useInventoryTextButtons":true,
   "previousConsoleEntries":[{
       "lua":false,
       "text":""
-    },{
-      "lua":false,
-      "text":"tcl"
     },{
       "lua":false,
       "text":"player->coc \"balmora\""
@@ -43,13 +43,13 @@
     },{
       "lua":false,
       "text":"tgm"
+    },{
+      "lua":false,
+      "text":"player->coc \"seyda neen\""
     }],
-  "useSearchTypes":true,
-  "useInventoryTextButtons":true,
-  "transferItemsByDefault":true,
-  "showHelpText":true,
+  "useSearch":true,
   "keybindClose":[57],
-  "autoFilterToTradable":true,
+  "dialogueTopicSeenColor":"journal_finished_quest_color",
   "components":{
     "serviceSpells":true,
     "options":true,
@@ -61,7 +61,7 @@
     "rest":true,
     "saveLoad":true,
     "spellmaking":true,
-    "map":true,
+    "inventory":true,
     "magicSelect":true,
     "textInput":true,
     "inventorySelect":true,
@@ -69,10 +69,10 @@
     "magic":true,
     "stat":true,
     "journal":false,
-    "contents":true,
     "training":true,
+    "contents":true,
     "name":true,
-    "inventory":true
+    "map":true
   },
   "keybindTakeAll":{
     "keyCode":57,
@@ -80,7 +80,7 @@
     "isControlDown":true,
     "isAltDown":false
   },
-  "selectSpellsOnSearch":true,
+  "displayRatio":false,
   "displayPlayerDialogueChoices":true,
   "keybindMapSwitch":{
     "keyCode":47,
@@ -91,9 +91,9 @@
   "changeMapModeOnCellChange":false,
   "displayWeekday":false,
   "autoSelectInput":"Magic",
-  "useSearchEffects":true,
+  "consoleHistoryLimit":10,
   "maxWait":3,
-  "dialogueTopicSeenColor":"journal_finished_quest_color",
+  "alwaysClearFiltersOnOpen":true,
   "takeFilteredItems":true,
   "keybindShowAdditionalInfo":{
     "keyCode":47,
@@ -101,9 +101,9 @@
     "isControlDown":false,
     "isAltDown":true
   },
-  "alwaysClearFiltersOnOpen":true,
-  "displayRatio":false,
-  "consoleHistoryLimit":10,
-  "useSearch":true,
+  "useSearchEffects":true,
+  "selectSpellsOnSearch":true,
+  "autoFilterToTradable":true,
+  "showHelpText":true,
   "dialogueTopicUniqueColor":"link_color"
 }

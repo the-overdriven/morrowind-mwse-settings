@@ -42,17 +42,15 @@
       "x":500
     }
   },
-  "highlight":{
+  "equippedMagic":{
     "visible":true,
-    "color":{
-      "r":0,
-      "b":0,
-      "g":100
-    },
-    "alpha":30
+    "position":{
+      "y":999,
+      "x":81
+    }
   },
   "npcHealthBar":{
-    "visible":true,
+    "visible":false,
     "width":80,
     "height":15,
     "position":{
@@ -74,7 +72,6 @@
       "x":500
     }
   },
-  "mods":[],
   "magicBar":{
     "width":90,
     "position":{
@@ -89,6 +86,13 @@
     "visible":true,
     "showValues":true,
     "height":22
+  },
+  "equippedWeapon":{
+    "visible":true,
+    "position":{
+      "y":999,
+      "x":115
+    }
   },
   "fatigueBar":{
     "width":90,
@@ -105,13 +109,87 @@
     "showValues":false,
     "height":13
   },
-  "deleteInvalidModConfigs":false,
+  "enabled":true,
   "logLevel":"INFO",
-  "equippedMagic":{
-    "visible":true,
-    "position":{
-      "y":999,
-      "x":81
+  "mods":{
+    "CompassFace":{
+      "width":0,
+      "options":{
+        "visibility":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":0,
+        "visible":true,
+        "positionX":0,
+        "height":0,
+        "positionY":0
+      },
+      "name":"Map and Compass",
+      "positionX":0,
+      "height":0,
+      "positionY":0
+    },
+    "NullC:MemoryUsage":{
+      "width":96,
+      "options":{
+        "size":true,
+        "visibility":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":96,
+        "visible":true,
+        "positionX":0,
+        "height":12,
+        "positionY":0
+      },
+      "name":"Memory Monitor",
+      "positionX":0,
+      "height":12,
+      "positionY":0
+    },
+    "Stealth:LightbarBlock":{
+      "width":0,
+      "options":{
+        "position":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":0,
+        "visible":true,
+        "positionX":500,
+        "height":0,
+        "positionY":1000
+      },
+      "name":"Stealth Improved Lightbar",
+      "positionX":500,
+      "height":0,
+      "positionY":1000
+    },
+    "EncumbranceBar:FillbarBlock":{
+      "width":75,
+      "options":{
+        "visibility":true,
+        "position":true,
+        "size":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":80,
+        "visible":true,
+        "positionX":0,
+        "height":14,
+        "positionY":940
+      },
+      "name":"Encumbrance Bar",
+      "positionX":84,
+      "height":13,
+      "positionY":928
     }
   },
   "activeMagicEffects":{
@@ -122,18 +200,20 @@
       "x":1000
     }
   },
-  "enabled":true,
-  "equippedWeapon":{
+  "deleteInvalidModConfigs":false,
+  "highlight":{
     "visible":true,
-    "position":{
-      "y":999,
-      "x":115
+    "alpha":30,
+    "color":{
+      "r":0,
+      "b":0,
+      "g":100
     }
   },
   "map":{
     "visible":true,
-    "width":96,
-    "height":96,
+    "width":90,
+    "height":80,
     "position":{
       "y":1000,
       "x":1000
