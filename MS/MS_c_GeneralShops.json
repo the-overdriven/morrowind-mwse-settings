@@ -1,0 +1,22 @@
+{
+    "folder" : "Services/General Shops",
+    "queued" : false,
+	"priority" : 3,
+    "cellNamePart":
+    [
+        "Clothier",
+        "Bookseller",
+        "Pawnbroker",
+        "Trader",
+        "Merchandise",
+        "Outfitter",
+        "Thongar's Tradehouse",
+        "Goods",
+        "Jobasha's Rare Books",
+        "Outpost",
+        "Services Tower"
+    ],
+    "cellNameExclude":
+    [
+    ]
+}

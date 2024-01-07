@@ -1,0 +1,8 @@
+{
+    "minExteriorCellLinkedDoorsForLocalMap": 50,
+    "onEnteringInteriors": true,
+    "maxHostileDistanceTrigger": 3500,
+    "minActorAiFightTrigger": 82,
+    "onCrossingExteriors": true,
+    "localMapWithHostiles": false
+}

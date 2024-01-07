@@ -1,0 +1,17 @@
+{
+    "folder" : "Towns/Fishing Villages",
+    "queued" : false,
+	"priority" : 0,
+    "cellNamePart":
+    [
+        "Seyda Neen",
+        "Hla Oad",
+        "Gnaar Mok",
+        "Ald Velothi",
+        "Fair Helas",
+        "Khuul"
+    ],
+    "cellNameExclude":
+    [
+    ]
+}

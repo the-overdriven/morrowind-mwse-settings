@@ -1,0 +1,14 @@
+{
+  "enableUISetupsCycling":true,
+  "showGameTime":true,
+  "keyUISetupsCycling":{
+    "keyCode":49,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "useTwelveHourTime":true,
+  "showRealTime":false,
+  "enableMod":true,
+  "clocksRelativePosition":2
+}

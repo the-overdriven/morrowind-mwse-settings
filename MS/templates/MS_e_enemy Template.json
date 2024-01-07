@@ -1,0 +1,7 @@
+{
+    "folder" : "Folder located in MS/combat",
+    "priority" : 2,
+    "tresholdMod" : 1, "_comment" : "Min health amount vs player's level requirement multiplier.",
+
+    "enemyNames" : [ "enemy name", "another enemy" ]
+}

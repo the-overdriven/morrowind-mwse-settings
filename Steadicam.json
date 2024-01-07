@@ -1,0 +1,16 @@
+{
+  "bodyInertia":false,
+  "configVersion":1,
+  "thirdPersonLookDamping":1,
+  "freeLookDamping":60,
+  "freeLookKeybind":{
+    "keyCode":49,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":true
+  },
+  "bodyInertiaDamping":15,
+  "enabled":true,
+  "thirdPersonFollowDamping":1,
+  "firstPersonLookDamping":150
+}

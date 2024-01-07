@@ -1,0 +1,10 @@
+{
+  "animateWhileRunning":true,
+  "items":0,
+  "version":2.06,
+  "barrelRivet":true,
+  "stayOpen":true,
+  "activateMode":false,
+  "animTimeToWait":100,
+  "playSound":true
+}

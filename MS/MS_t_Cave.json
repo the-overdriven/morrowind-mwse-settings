@@ -1,0 +1,12 @@
+{
+    "folder": "Cave",
+    "requireHostiles": false,
+	"priority" : 0,
+    "tilesetPart":[
+        "in_pycave_",
+        "in_bonecave_",
+        "in_moldcave_",
+        "in_mudcave_",
+        "in_lavacave_"
+    ]
+}

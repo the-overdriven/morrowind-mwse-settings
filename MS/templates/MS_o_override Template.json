@@ -1,0 +1,14 @@
+{
+    "dungeonFolder" : "General dungeons, in MS/general",
+	"dungeonDisable" : false, "_comment": "Does it disable general dungeon music?", 
+    "tilesetDisable" : false, "_comment": "Dues it disable tileset specific music?", 
+    "airFolder" : "Folder for air music, MS/General",
+    "depthsFolder" : "Folder for underwater, MS/General",
+    "combatFolder" : "Folder for combat music, MS/Combat",
+	"combatDisable" : false, "_comment": "Disable the combat music here?", 
+    "regionName":
+    [
+        "Region's name in game",
+        "Another region"
+    ]
+}

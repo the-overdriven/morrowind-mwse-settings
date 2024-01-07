@@ -1,0 +1,20 @@
+{
+  "questHintCtrlAltURL":false,
+  "questHintFirstHeardFrom":true,
+  "questPrefix":0,
+  "questHintQuestInfo":true,
+  "clearFilter":true,
+  "questFilter":true,
+  "upgradeJournalMessage":true,
+  "addYearToDate":false,
+  "logMissingQuestNames":false,
+  "copyPaste":true,
+  "clearTopicsWithNoEntries":true,
+  "questHintAltSourceInfo":false,
+  "logLevel":0,
+  "questHintSourceMod":false,
+  "collapseDates":true,
+  "skipLinksInsideWords":false,
+  "adjustBookmarkWidth":true,
+  "questHintQuestId":false
+}

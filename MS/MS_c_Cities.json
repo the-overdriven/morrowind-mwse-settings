@@ -1,0 +1,35 @@
+{
+    "folder" : "cities",
+    "queued" : false,
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "Balmora",
+        "Suran",
+        "Sadrith Mora",
+        "Tel Mora",
+        "Tel Vos",
+        "Tel Aruhn",
+        "Tel Branora",
+        "Tel Fyr",
+        "Tel Uvirith",
+        "Vivec",
+        "Ald-Ruhn",
+        "Gnisis",
+        "Khuul",
+        "Maar Gan",
+        "Mournhold",
+        "Caldera",
+        "Ebonheart",
+        "Pelagiad",
+        "Seyda Neen",
+        "Molag Mar",
+        "Hla Oad",
+        "Dagon Fel",
+        "Ald Velothi"
+    ],
+    "cellNameExclude":
+    [
+		"Sewers"
+    ]
+}

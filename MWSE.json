@@ -1,0 +1,14 @@
+{
+  "LetterboxMovies":false,
+  "LogWarningsWithLuaStack":true,
+  "BuildNumber":3608,
+  "ReplaceDialogueFiltering":true,
+  "PatchNiFlipController":true,
+  "EnableLuaErrorNotifications":false,
+  "EnableLogColors":false,
+  "EnableDependencyChecks":true,
+  "UseSkinnedAccurateActivationRaytests":true,
+  "RunInBackground":true,
+  "KeepAllNetImmerseObjectsAlive":false,
+  "EnableLegacyLuaMods":true
+}

@@ -1,0 +1,9 @@
+{
+  "magickaDecay":false,
+  "pcRegen":false,
+  "npcRate":100,
+  "vanillaRate":false,
+  "npcRegen":false,
+  "pcRate":100,
+  "Version":"Magicka Regen, v1.0"
+}

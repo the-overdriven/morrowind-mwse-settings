@@ -1,0 +1,18 @@
+{
+  "sneakDialogue":2,
+  "ignored":{
+    "mer_tgw_guar":true,
+    "mer_tgw_guar_w":true
+  },
+  "sneakDialogueChance":67,
+  "factionMembersHelpRank":0,
+  "combatDialogue":2,
+  "combatDistance":850,
+  "factionMembersHelp":true,
+  "sneakEnable":true,
+  "combatEnable":true,
+  "sneakDialogueTimer":5,
+  "ignoredFactions":[],
+  "debug":false,
+  "language":"english"
+}

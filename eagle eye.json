@@ -1,0 +1,30 @@
+{
+  "tigerEyeEnabledRunning":false,
+  "exceedsActivationDistanceMessage":"Too far away.",
+  "lockOnBindKeyDown":true,
+  "tigerEyeInventoryItemsEnabled":true,
+  "tigerEyeDistanceItem":0,
+  "eagleEyeEnabled":true,
+  "tigerEyeEnabledJumping":false,
+  "eagleEyeKeyInfo":{
+    "keyCode":42,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "skipRepetitiveLocks":1,
+  "tigerEyeEnabledSwimming":false,
+  "tigerEyeKeyInfo":{
+    "keyCode":42,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "eagleEyeAlwaysEnabled":false,
+  "tigerEyeDistanceObject":192,
+  "tigerEyeDistanceActor":192,
+  "normalActivationDistance":192,
+  "tigerEyeEnabled":true,
+  "eagleEyeDistance":5000,
+  "tigerEyeEnabledWalking":false
+}

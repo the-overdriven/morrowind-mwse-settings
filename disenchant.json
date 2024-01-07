@@ -1,0 +1,9 @@
+{
+  "HealthDamage":true,
+  "SkillMod":0,
+  "AllowBuiltin":true,
+  "ChargeInfluence":10,
+  "ChanceFloorVal":1,
+  "ChanceFloorToggle":true,
+  "AlwaysSucceed":false
+}

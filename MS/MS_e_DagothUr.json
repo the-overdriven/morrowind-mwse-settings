@@ -1,0 +1,9 @@
+{
+    "folder" : "Dagoth Ur",
+    "priority" : 5,
+    "instant" : true,
+    "boss" : true,
+    "tresholdMod" : 1,
+
+    "enemyNames" : [ "Dagoth Ur" ]
+}

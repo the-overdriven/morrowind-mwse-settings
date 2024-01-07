@@ -1,0 +1,19 @@
+{
+    "folder" : "Telvanni",
+    "queued" : true,
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "Sadrith Mora",
+        "Tel Mora",
+        "Tel Vos",
+        "Tel Aruhn",
+        "Tel Branora",
+        "Tel Fyr",
+        "Tel Uvirith"
+    ],
+    "cellNameExclude":
+    [
+		"Sewers"
+    ]
+}

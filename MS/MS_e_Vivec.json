@@ -1,0 +1,12 @@
+{
+    "folder" : "Vivec",
+    "priority" : 4,
+    "instant" : true,
+    "boss" : true,
+    "tresholdMod" : 1,
+
+    "enemyNames" :
+    [
+        "Vivec"
+    ]
+}

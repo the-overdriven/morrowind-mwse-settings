@@ -1,0 +1,15 @@
+{
+    "folder" : "Folder in MS/cell",
+    "queued" : true, "_comment": "Does it play instantly (false) or waits until previous track finishes (true)?",
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "part of cell name",
+        "another part of cell name"
+    ],
+    "cellNameExclude":
+    [
+        "cell name part to exclude",
+        "and another one"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "folder": "Daedric",
+    "requireHostiles": false,
+	"priority" : 0,
+    "tilesetPart":[
+        "in_dae_hall",
+        "in_dae_room"
+    ]
+}

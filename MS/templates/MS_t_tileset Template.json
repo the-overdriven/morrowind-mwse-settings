@@ -1,0 +1,11 @@
+{
+    "folder": "folder in MS/interior",
+    "requireHostiles": true, "_comment" : "Does it require enemies to be in the interior?",
+	"priority" : 0,
+    "tilesetPart":[
+        "static ID's part",
+        "another",
+        "and another"
+    ],
+	"inMods": ["your mod.esm", "other mod.esp"] , "_comment" : "Optional: mod file name to play the music only in the mod."
+}

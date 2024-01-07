@@ -1,0 +1,10 @@
+{
+    "folder": "Strongholds",
+    "requireHostiles": false,
+	"priority" : 1,
+    "tilesetPart":[
+        "in_strong_",
+        "in_stronghold_",
+        "in_strongruin_"
+    ]
+}

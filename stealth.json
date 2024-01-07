@@ -1,0 +1,17 @@
+{
+  "viewMultiplier":3,
+  "sneakDistanceBase":50,
+  "modEnabled":true,
+  "viewAngle":100,
+  "noViewMultiplier":50,
+  "sneakDifficulty":50,
+  "sneakDistanceMultiplier":500,
+  "sneakAttack":true,
+  "adjustSneakIcon":true,
+  "invisFix":true,
+  "npcSneakMultiplier":150,
+  "sneakSkillMult":100,
+  "chameleonMultiplier":50,
+  "bootMultiplier":10,
+  "invisibilityBonus":30
+}

@@ -1,0 +1,32 @@
+{
+    "folder" : "Services/Taverns",
+    "queued" : false,
+	"priority" : 2,
+    "cellNamePart":
+    [
+        "Tradehouse",
+        "Ald Skar Inn",
+        "club",
+        "The Rat In The Pot",
+        "Eight Plates",
+        "Lucky Lockup",
+        "Shenk's Shovel",
+        "End of the World",
+        "Six Fishes",
+        "The Winged Guar",
+        "Tavern",
+        "Raven Rock, Bar",
+        "Gateway Inn",
+        "Fara's Hole in the Wall",
+        "Plot and Plaster",
+        "The Covenant",
+        "The Flowers of Gold",
+        "The Lizard's Head",
+        "St. Veloth's Hostel",
+        "The Pilgrim's Rest",
+        "Earthly Delights"
+    ],
+    "cellNameExclude":
+    [
+    ]
+}

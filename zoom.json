@@ -1,0 +1,15 @@
+{
+  "maxDrawDistance":20,
+  "zoomStrength":0.2,
+  "zoomKey":{
+    "keyCode":23,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "maxZoom":1.3,
+  "changeDrawDistance":false,
+  "faderOn":false,
+  "zoomType":"scroll",
+  "logLevel":"INFO"
+}

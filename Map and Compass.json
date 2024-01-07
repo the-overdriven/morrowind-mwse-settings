@@ -1,0 +1,34 @@
+{
+  "worldMap":true,
+  "compasses":["compassface.tga"],
+  "hideMapNotification":false,
+  "noteKey":{
+    "keyCode":29
+  },
+  "maxScale":3,
+  "mapsOutlander":{
+    "mapVvardenfell":[],
+    "mapMolag":[],
+    "mapSheogoard":[],
+    "mapWestGash":[],
+    "mapLyithdonea_01":[],
+    "mapZafirbelBay":[],
+    "mapStrosMkai":[],
+    "mapLyithdonea_02":[],
+    "mapMorrowind":[],
+    "mapSkyrim":[]
+  },
+  "mapsWagner":{
+    "solstheimMapWagner":[],
+    "vvardenfellMapWagner":{
+      "enabled":true
+    },
+    "mournholdMapWagner":[]
+  },
+  "selectionDropdown":true,
+  "localMap":true,
+  "mapPacks":["mapsWagner","mapsOutlander"],
+  "compass":"compassface.tga",
+  "hideMapTitle":false,
+  "hideSwitch":false
+}

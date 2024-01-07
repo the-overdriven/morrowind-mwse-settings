@@ -1,0 +1,11 @@
+{
+    "folder": "Tomb",
+    "requireHostiles": true,
+	"priority" : 0,
+    "tilesetPart":[
+        "in_velothilarge_",
+        "in_velothismall_",
+        "in_v_s_",
+        "in_v_l_"
+    ]
+}

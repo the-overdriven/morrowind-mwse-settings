@@ -1,0 +1,10 @@
+{
+  "showGondola":true,
+  "mainMap":"\\Textures\\tew\\Travel Tooltips\\vvardenfellcitymap.tga",
+  "showMainMap":false,
+  "fontText":0,
+  "size":"Wide",
+  "fontLabel":2,
+  "scale":35,
+  "mapColour":"Indoril"
+}

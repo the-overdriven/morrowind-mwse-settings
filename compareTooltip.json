@@ -1,0 +1,18 @@
+{
+  "comparisonKey":{
+    "keyCode":56,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":true
+  },
+  "useColors":true,
+  "version":1,
+  "id":"CTT",
+  "file":"compareTooltip",
+  "enableMod":true,
+  "mod":"MWSE Compare Tooltip",
+  "useKey":true,
+  "useParens":true,
+  "useArrows":true,
+  "author":"rfuzzo"
+}

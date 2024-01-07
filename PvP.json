@@ -1,0 +1,27 @@
+{
+  "pvpcont":true,
+  "cofat":0.5,
+  "animsw":true,
+  "pvpprdod":true,
+  "pvpspd":1,
+  "round":true,
+  "dodkey":{
+    "keyCode":54
+  },
+  "hitr":0,
+  "dmgind":true,
+  "aspd":true,
+  "m3":true,
+  "wspd":true,
+  "dodcost":30,
+  "npcsw":true,
+  "dmgmult":0.5,
+  "comult":1,
+  "tim":true,
+  "duel":false,
+  "atkmult":0.25,
+  "pvpproj":1,
+  "volimp":0.8,
+  "par":true,
+  "cone":true
+}

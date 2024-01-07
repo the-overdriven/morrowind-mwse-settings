@@ -1,0 +1,13 @@
+{
+  "normalTimescale":30,
+  "adjustFastTravelTime":false,
+  "turboTimescale":3600,
+  "fastForwardHotkey":{
+    "keyCode":21,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "fastForwardTimescale":360,
+  "displayMessages":true
+}

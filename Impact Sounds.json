@@ -1,0 +1,15 @@
+{
+  "volit":1,
+  "newsnd":true,
+  "volsw":0.7,
+  "voldmg":0.7,
+  "volfarmnpc":1,
+  "volfoot":1,
+  "volarm":1,
+  "volfarm":1,
+  "npcfdist":2000,
+  "volfootnpc":1,
+  "volimp":0.7,
+  "metblood":true,
+  "volcont":1
+}

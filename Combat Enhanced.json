@@ -1,0 +1,24 @@
+{
+  "mb":true,
+  "list":{
+    "0":"Sword",
+    "1":"Dagger",
+    "2":"Lance",
+    "3":"BattleAxe",
+    "4":"Mace"
+  },
+  "blocked":[],
+  "slider":5,
+  "npcs":[],
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "switch":3,
+  "dropDown":0,
+  "onOff":true,
+  "sliderpercent":50,
+  "textfield":"hello"
+}

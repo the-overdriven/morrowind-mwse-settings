@@ -1,0 +1,16 @@
+{
+    "folder" : "Towns/Ashlander Camps",
+    "queued" : false,
+	"priority" : 3,
+    "cellNamePart":
+    [
+        "Ahemmusa Camp",
+        "Erabenimsun Camp",
+        "Urshilaku Camp",
+        "Zainab Camp",
+        "Yurt"
+    ],
+    "cellNameExclude":
+    [
+    ]
+}

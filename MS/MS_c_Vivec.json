@@ -1,0 +1,14 @@
+{
+    "folder" : "Vivec",
+    "queued" : true,
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "Vivec"
+    ],
+    "cellNameExclude":
+    [
+        "Sewers",
+        "Underworks"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "folder" : "Towns/Nordic",
+    "queued" : false,
+	"priority" : 0,
+    "cellNamePart":
+    [
+        "Dagon Fel",
+        "Arrow,",
+        "Skaal Village",
+        "Solstheim, Thirsk",
+        "Raven Rock",
+        "Graring's House",
+        "Workshop"
+    ],
+    "cellNameExclude":
+    [
+        "Andre Maul's Tower",
+        "Sorkvild's Tower",
+        "Vacant Tower"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "showAlarm":75,
+  "modEnabled":true,
+  "allowTaunt":50,
+  "allowAdmire":25,
+  "showFight":50,
+  "allowIntimidate":50,
+  "guardPenalty":20,
+  "bribeDecreasesAlarm":75,
+  "showDisposition":0,
+  "pauperBonus":40,
+  "combatTalk":100
+}

@@ -1,0 +1,8 @@
+{
+  "toggleKey":{
+    "keyCode":35,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  }
+}

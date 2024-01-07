@@ -1,0 +1,8 @@
+{
+  "debug":false,
+  "enabled":true,
+  "hotkey":{
+    "keyCode":42
+  },
+  "maxTargetDistance":3000
+}

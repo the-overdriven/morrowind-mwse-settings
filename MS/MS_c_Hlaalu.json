@@ -1,0 +1,14 @@
+{
+    "folder" : "Hlaalu",
+    "queued" : true,
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "Balmora",
+        "Suran"
+    ],
+    "cellNameExclude":
+    [
+		"Sewers"
+    ]
+}

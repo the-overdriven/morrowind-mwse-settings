@@ -1,0 +1,9 @@
+{
+    "folder": "Imperial Forts",
+    "requireHostiles": false,
+	"priority" : 0,
+    "tilesetPart":[
+        "in_impbig_",
+        "in_impsmall_"
+    ]
+}

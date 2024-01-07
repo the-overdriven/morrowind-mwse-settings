@@ -1,0 +1,17 @@
+{
+    "folder" : "Imperial",
+    "queued" : false,
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "Caldera",
+        "Ebonheart",
+        "Pelegiad",
+        "Seyda Neen"
+    ],
+    "cellNameExclude":
+    [
+        "Sewers",
+        "Old Ebonheart"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "folder": "Dwemer",
+    "requireHostiles": false,
+	"priority" : 0,
+    "tilesetPart":[
+        "in_dwrv_corr",
+        "in_dwrv_hall",
+        "in_dwrv_tower",
+        "in_dwrv_obsrv",
+        "in_dwe_corr",
+        "in_dwe_hall",
+        "in_dwr_tower"
+    ]
+}

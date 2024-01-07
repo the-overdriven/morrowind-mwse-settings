@@ -1,0 +1,9 @@
+{
+  "thickness":6,
+  "showOnlyForOnStrike":true,
+  "color":{
+    "r":50,
+    "b":255,
+    "g":50
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "folder" : "Ashlands pack",
+    "priority" : 2,
+    "regionName":
+    [
+        "Ashlands Region",
+        "Molag Amur Region",
+        "Molag Mar Region"
+    ],
+    "cellNameExclude":
+    [
+		"Pelagiad"
+    ]
+}

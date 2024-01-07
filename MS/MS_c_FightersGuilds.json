@@ -1,0 +1,15 @@
+{
+    "folder" : "Services/Fighters Guilds",
+    "queued" : false,
+	"priority" : 3,
+    "cellNamePart":
+    [
+        "Fighters Guild",
+        "Fighter's Guild",
+        "Fighters' Guild",
+        "Guild of Fighters"
+    ],
+    "cellNameExclude":
+    [
+    ]
+}

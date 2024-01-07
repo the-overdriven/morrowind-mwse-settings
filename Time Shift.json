@@ -1,0 +1,14 @@
+{
+  "sc":10,
+  "mb":3,
+  "mag":40,
+  "fat":30,
+  "KEY":{
+    "keyCode":44,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "mc":0,
+  "sou":true
+}

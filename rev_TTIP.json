@@ -1,0 +1,14 @@
+{
+  "collect":{
+    "keyCode":46,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "ttip":{
+    "keyCode":37,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  }
+}

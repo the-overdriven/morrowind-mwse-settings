@@ -1,0 +1,17 @@
+{
+    "folder" : "Redoran",
+    "queued" : true,
+	"priority" : 1,
+    "cellNamePart":
+    [
+        "Ald-Ruhn",
+        "Gnisis",
+		"Khuul",
+		"Maar Gan"
+    ],
+    "cellNameExclude":
+    [
+        "Sewers",
+        "Eggmine"
+    ]
+}
