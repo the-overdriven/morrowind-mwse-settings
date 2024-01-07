@@ -2,7 +2,7 @@
   "toggleKey":{
     "keyCode":35,
     "isShiftDown":false,
-    "isAltDown":false,
+    "isAltDown":true,
     "isControlDown":false
   }
 }

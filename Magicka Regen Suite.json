@@ -1,0 +1,23 @@
+{
+  "combatPenaltyMorrowind":0.33,
+  "magickaReturnBaseOblivion":0.75,
+  "nightBonus":0.25,
+  "regenerationFormula":0,
+  "vampireChanges":true,
+  "capMorrowind":3,
+  "INTScale":1.1,
+  "INTCombatPenalty":0.33,
+  "INTBase":2.5,
+  "magickaReturnMultOblivion":0.02,
+  "INTApplyCombatPenalty":true,
+  "regSpeedModifier":0.06,
+  "useDecay":false,
+  "dayPenalty":1.25,
+  "baseMorrowind":5,
+  "magickaReturnSkyrim":0.03,
+  "INTUseFatigueTerm":true,
+  "INTCap":3.5,
+  "scaleMorrowind":1.4,
+  "decayExp":5.5,
+  "combatPenaltySkyrim":0.33
+}

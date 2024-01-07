@@ -1,6 +1,6 @@
 {
-  "fBaseRunMultiplier":"5",
+  "fBaseRunMultiplier":"10",
   "fMaxWalkSpeedCreature":"199",
-  "fMaxWalkSpeed":"80",
-  "fMinWalkSpeed":"20"
+  "fMinWalkSpeed":"20",
+  "fMaxWalkSpeed":"80"
 }

@@ -23,14 +23,14 @@
     "visible":true,
     "position":{
       "y":997,
-      "x":977
+      "x":500
     }
   },
   "sneakIndicator":{
     "visible":true,
     "position":{
       "y":994,
-      "x":148
+      "x":150
     }
   },
   "deadzone":12,
@@ -42,11 +42,13 @@
       "x":500
     }
   },
-  "equippedMagic":{
+  "highlight":{
     "visible":true,
-    "position":{
-      "y":999,
-      "x":81
+    "alpha":30,
+    "color":{
+      "r":0,
+      "b":0,
+      "g":100
     }
   },
   "npcHealthBar":{
@@ -72,28 +74,7 @@
       "x":500
     }
   },
-  "magicBar":{
-    "width":90,
-    "position":{
-      "y":962,
-      "x":0
-    },
-    "color":{
-      "r":21,
-      "b":62,
-      "g":27
-    },
-    "visible":true,
-    "showValues":true,
-    "height":22
-  },
-  "equippedWeapon":{
-    "visible":true,
-    "position":{
-      "y":999,
-      "x":115
-    }
-  },
+  "deleteInvalidModConfigs":false,
   "fatigueBar":{
     "width":90,
     "position":{
@@ -108,6 +89,13 @@
     "visible":true,
     "showValues":false,
     "height":13
+  },
+  "equippedWeapon":{
+    "visible":true,
+    "position":{
+      "y":999,
+      "x":115
+    }
   },
   "enabled":true,
   "logLevel":"INFO",
@@ -200,14 +188,26 @@
       "x":1000
     }
   },
-  "deleteInvalidModConfigs":false,
-  "highlight":{
-    "visible":true,
-    "alpha":30,
+  "magicBar":{
+    "width":90,
+    "position":{
+      "y":962,
+      "x":0
+    },
     "color":{
-      "r":0,
-      "b":0,
-      "g":100
+      "r":21,
+      "b":62,
+      "g":27
+    },
+    "visible":true,
+    "showValues":true,
+    "height":22
+  },
+  "equippedMagic":{
+    "visible":true,
+    "position":{
+      "y":999,
+      "x":81
     }
   },
   "map":{

@@ -10,7 +10,7 @@
   "settlementsOnly":true,
   "dawnHour":6,
   "varianceInMinutes":30,
-  "duskHour":20,
   "enabled":true,
+  "duskHour":20,
   "useVariance":true
 }

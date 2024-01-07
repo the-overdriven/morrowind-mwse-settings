@@ -18,10 +18,22 @@
       "text":""
     },{
       "lua":false,
-      "text":"player->coc \"balmora\""
+      "text":"placeatpc \"germia\" 1,1,1"
     },{
       "lua":false,
       "text":"tgm"
+    },{
+      "lua":false,
+      "text":"placeatpc \"germia\" 1,1,1"
+    },{
+      "lua":false,
+      "text":"tgm"
+    },{
+      "lua":false,
+      "text":"player->coc \"vivec\""
+    },{
+      "lua":false,
+      "text":"player->coc \"balmora\""
     },{
       "lua":false,
       "text":"placeatpc \"atulg gro-largum\" 1,1,1"
@@ -30,26 +42,14 @@
       "text":"tgm"
     },{
       "lua":false,
-      "text":"player->coc \"vori\""
+      "text":"player->setconjuration 111"
     },{
       "lua":false,
-      "text":"placeatpc \"vori\" 1,1,1"
-    },{
-      "lua":false,
-      "text":"player->coc \"seyda neen\""
-    },{
-      "lua":false,
-      "text":"placeatpc \"vori\" 1,1,1"
-    },{
-      "lua":false,
-      "text":"tgm"
-    },{
-      "lua":false,
-      "text":"player->coc \"seyda neen\""
+      "text":"player->coc \"vivec\""
     }],
   "useSearch":true,
   "keybindClose":[57],
-  "dialogueTopicSeenColor":"journal_finished_quest_color",
+  "consoleHistoryLimit":10,
   "components":{
     "serviceSpells":true,
     "options":true,
@@ -83,20 +83,20 @@
   "displayRatio":false,
   "displayPlayerDialogueChoices":true,
   "keybindMapSwitch":{
-    "keyCode":47,
+    "keyCode":61,
     "isShiftDown":false,
     "isControlDown":false,
     "isAltDown":false
   },
-  "changeMapModeOnCellChange":false,
+  "changeMapModeOnCellChange":true,
   "displayWeekday":false,
   "autoSelectInput":"Magic",
-  "consoleHistoryLimit":10,
-  "maxWait":3,
   "alwaysClearFiltersOnOpen":true,
+  "maxWait":3,
+  "dialogueTopicSeenColor":"journal_finished_quest_color",
   "takeFilteredItems":true,
   "keybindShowAdditionalInfo":{
-    "keyCode":47,
+    "keyCode":61,
     "isShiftDown":false,
     "isControlDown":false,
     "isAltDown":true
