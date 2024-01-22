@@ -1,9 +1,9 @@
 {
   "overRideFile":false,
-  "runInBackground":true,
+  "blockKey":57,
   "delay":0.125,
-  "continue":true,
-  "enabled":true,
   "overrideFile":false,
-  "blockKey":57
+  "enabled":true,
+  "runInBackground":true,
+  "continue":true
 }

@@ -1,10 +1,13 @@
 {
-  "showGondola":true,
-  "mainMap":"\\Textures\\tew\\Travel Tooltips\\vvardenfellcitymap.tga",
-  "showMainMap":false,
-  "fontText":0,
+  "mainMap":"\\Textures\\tew\\Travel Tooltips\\MW_travelroutes.tga",
   "size":"Wide",
-  "fontLabel":2,
-  "scale":35,
-  "mapColour":"Indoril"
+  "mapColour":"Indoril",
+  "headers":"headers_vehk",
+  "useFallback":true,
+  "showMainMap":true,
+  "showGondola":true,
+  "debugLogOn":false,
+  "fontLabel":0,
+  "scale":43,
+  "fontText":0
 }

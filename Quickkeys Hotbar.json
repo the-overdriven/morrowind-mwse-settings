@@ -1,0 +1,30 @@
+{
+  "onOff2":true,
+  "blocked":[],
+  "next":1,
+  "slider":4,
+  "npcs":[],
+  "keyN":{
+    "keyCode":205,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "keyP":{
+    "keyCode":203,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "switch":false,
+  "dropDown":0,
+  "onOff":true,
+  "sliderpercent2":32,
+  "textfield":"hello"
+}

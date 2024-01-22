@@ -1,3 +1,4 @@
 {
-  "pickupByDefault":true
+  "pickupByDefault":true,
+  "checkOwnership":false
 }

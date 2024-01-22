@@ -18,34 +18,34 @@
       "text":""
     },{
       "lua":false,
-      "text":"placeatpc \"germia\" 1,1,1"
+      "text":"player->coc \"ald ruhn\""
     },{
       "lua":false,
       "text":"tgm"
     },{
       "lua":false,
-      "text":"placeatpc \"germia\" 1,1,1"
+      "text":"player->coc \"seyda neen\""
     },{
       "lua":false,
-      "text":"tgm"
+      "text":"`player->coc \"akimaes\""
+    },{
+      "lua":false,
+      "text":"player->coc \"akimaes\""
+    },{
+      "lua":false,
+      "text":"player->coc \"Ilanipu\""
+    },{
+      "lua":false,
+      "text":"player->coc \"koal cave\""
     },{
       "lua":false,
       "text":"player->coc \"vivec\""
     },{
       "lua":false,
-      "text":"player->coc \"balmora\""
+      "text":"`tgm"
     },{
       "lua":false,
-      "text":"placeatpc \"atulg gro-largum\" 1,1,1"
-    },{
-      "lua":false,
-      "text":"tgm"
-    },{
-      "lua":false,
-      "text":"player->setconjuration 111"
-    },{
-      "lua":false,
-      "text":"player->coc \"vivec\""
+      "text":"player->coc \"hla oad\""
     }],
   "useSearch":true,
   "keybindClose":[57],
@@ -88,7 +88,7 @@
     "isControlDown":false,
     "isAltDown":false
   },
-  "changeMapModeOnCellChange":true,
+  "changeMapModeOnCellChange":false,
   "displayWeekday":false,
   "autoSelectInput":"Magic",
   "alwaysClearFiltersOnOpen":true,

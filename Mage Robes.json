@@ -1,11 +1,10 @@
 {
   "modBlacklist": [
-    "morrowind.esm",
-    "tribunal.esm",
-    "bloodmoon.esm"
   ],
   "npcBlacklist": [
-    "galbedir",
-    "skinkintreesshade"
+    "ajira",
+	"galbedir",
+	"trebonius artorius",
+	"Antlas Salobar Dead",
   ]
 }

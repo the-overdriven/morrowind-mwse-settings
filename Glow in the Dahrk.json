@@ -1,6 +1,9 @@
 {
+  "addInteriorLights":true,
+  "logLevel":"INFO",
   "varianceInMinutes":1,
+  "useVariance":false,
   "duskHour":22,
   "dawnHour":4,
-  "useVariance":false
+  "addInteriorSunrays":true
 }

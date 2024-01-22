@@ -1,0 +1,6 @@
+{
+  "stopCombat":true,
+  "stopDamage":true,
+  "ignored":[],
+  "debugLevel":0
+}

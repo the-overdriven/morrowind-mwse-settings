@@ -3,12 +3,12 @@
   "mb":3,
   "mag":47,
   "fat":30,
-  "sou":true,
+  "mc":0,
+  "sou":false,
   "KEY":{
     "keyCode":44,
     "isShiftDown":false,
     "isAltDown":false,
     "isControlDown":false
-  },
-  "mc":0
+  }
 }

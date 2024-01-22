@@ -1,0 +1,29 @@
+{
+  "ar_green":2,
+  "mg_red":2,
+  "onOff2":true,
+  "mg_green":2,
+  "mode":1,
+  "ar_blue":2,
+  "keyMagic":{
+    "keyCode":76,
+    "isShiftDown":false,
+    "isAltDown":true,
+    "isControlDown":false
+  },
+  "mg_blue":6,
+  "ar_red":8,
+  "onOff":true,
+  "keyItem":{
+    "keyCode":77,
+    "isShiftDown":false,
+    "isAltDown":true,
+    "isControlDown":false
+  },
+  "keyEquip":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  }
+}

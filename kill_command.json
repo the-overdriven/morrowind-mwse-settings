@@ -1,0 +1,10 @@
+{
+  "blacklist":[],
+  "showMessage":true,
+  "attackKey":{
+    "keyCode":34,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  }
+}

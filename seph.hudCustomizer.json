@@ -42,22 +42,20 @@
       "x":500
     }
   },
-  "highlight":{
+  "equippedMagic":{
     "visible":true,
-    "alpha":30,
-    "color":{
-      "r":0,
-      "b":0,
-      "g":100
+    "position":{
+      "y":999,
+      "x":81
     }
   },
   "npcHealthBar":{
-    "visible":false,
-    "width":80,
+    "visible":true,
+    "width":89,
     "height":15,
     "position":{
-      "y":549,
-      "x":500
+      "y":904,
+      "x":1
     }
   },
   "menuSwimFillBar":{
@@ -74,50 +72,46 @@
       "x":500
     }
   },
-  "deleteInvalidModConfigs":false,
-  "fatigueBar":{
-    "width":90,
-    "position":{
-      "y":928,
-      "x":0
-    },
-    "color":{
-      "r":0,
-      "b":24,
-      "g":59
-    },
-    "visible":true,
-    "showValues":false,
-    "height":13
-  },
-  "equippedWeapon":{
-    "visible":true,
-    "position":{
-      "y":999,
-      "x":115
-    }
-  },
-  "enabled":true,
-  "logLevel":"INFO",
   "mods":{
-    "CompassFace":{
+    "EncumbranceBar:FillbarBlock":{
+      "width":75,
+      "options":{
+        "visibility":true,
+        "position":true,
+        "size":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":80,
+        "visible":true,
+        "positionX":0,
+        "height":14,
+        "positionY":940
+      },
+      "name":"Encumbrance Bar",
+      "positionX":84,
+      "height":13,
+      "positionY":928
+    },
+    "Stealth:LightbarBlock":{
       "width":0,
       "options":{
-        "visibility":true
+        "position":true
       },
       "visible":true,
       "valid":true,
       "defaults":{
         "width":0,
         "visible":true,
-        "positionX":0,
+        "positionX":500,
         "height":0,
-        "positionY":0
+        "positionY":1000
       },
-      "name":"Map and Compass",
-      "positionX":0,
+      "name":"Stealth Improved Lightbar",
+      "positionX":500,
       "height":0,
-      "positionY":0
+      "positionY":1000
     },
     "NullC:MemoryUsage":{
       "width":96,
@@ -139,7 +133,66 @@
       "height":12,
       "positionY":0
     },
-    "Stealth:LightbarBlock":{
+    "spa_levelUpIndicator":{
+      "width":48,
+      "options":{
+        "position":true,
+        "size":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":48,
+        "visible":true,
+        "positionX":20,
+        "height":48,
+        "positionY":200
+      },
+      "name":"Level Up Indicator",
+      "positionX":20,
+      "height":48,
+      "positionY":200
+    },
+    "CompassFace":{
+      "width":0,
+      "options":{
+        "visibility":true
+      },
+      "visible":true,
+      "valid":false,
+      "defaults":{
+        "width":0,
+        "visible":true,
+        "positionX":0,
+        "height":0,
+        "positionY":0
+      },
+      "name":"Map and Compass",
+      "positionX":0,
+      "height":0,
+      "positionY":0
+    },
+    "CompanionHealthBars:Menu":{
+      "width":0,
+      "options":{
+        "position":true,
+        "visibility":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":0,
+        "visible":true,
+        "positionX":0,
+        "height":0,
+        "positionY":0
+      },
+      "name":"Companion HealthBars",
+      "positionX":0,
+      "height":0,
+      "positionY":0
+    },
+    "Spa_test":{
       "width":0,
       "options":{
         "position":true
@@ -149,45 +202,34 @@
       "defaults":{
         "width":0,
         "visible":true,
-        "positionX":500,
+        "positionX":0,
         "height":0,
-        "positionY":1000
+        "positionY":0
       },
-      "name":"Stealth Improved Lightbar",
+      "name":"QuickKey Hotbar",
       "positionX":500,
       "height":0,
-      "positionY":1000
-    },
-    "EncumbranceBar:FillbarBlock":{
-      "width":75,
-      "options":{
-        "visibility":true,
-        "position":true,
-        "size":true
-      },
-      "visible":true,
-      "valid":true,
-      "defaults":{
-        "width":80,
-        "visible":true,
-        "positionX":0,
-        "height":14,
-        "positionY":940
-      },
-      "name":"Encumbrance Bar",
-      "positionX":84,
-      "height":13,
-      "positionY":928
+      "positionY":990
     }
   },
-  "activeMagicEffects":{
+  "highlight":{
     "visible":true,
-    "layout":"top_to_bottom",
+    "color":{
+      "r":0,
+      "b":0,
+      "g":100
+    },
+    "alpha":30
+  },
+  "equippedWeapon":{
+    "visible":true,
     "position":{
-      "y":1000,
-      "x":1000
+      "y":999,
+      "x":115
     }
   },
+  "deleteInvalidModConfigs":false,
+  "logLevel":"INFO",
   "magicBar":{
     "width":90,
     "position":{
@@ -203,12 +245,29 @@
     "showValues":true,
     "height":22
   },
-  "equippedMagic":{
+  "activeMagicEffects":{
     "visible":true,
+    "layout":"top_to_bottom",
     "position":{
-      "y":999,
-      "x":81
+      "y":1000,
+      "x":1000
     }
+  },
+  "enabled":true,
+  "fatigueBar":{
+    "width":90,
+    "position":{
+      "y":928,
+      "x":0
+    },
+    "color":{
+      "r":0,
+      "b":24,
+      "g":59
+    },
+    "visible":true,
+    "showValues":false,
+    "height":13
   },
   "map":{
     "visible":true,
@@ -216,7 +275,7 @@
     "height":80,
     "position":{
       "y":1000,
-      "x":1000
+      "x":977
     }
   }
 }

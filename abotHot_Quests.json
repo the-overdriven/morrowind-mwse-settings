@@ -1,15 +1,1 @@
-{
-    "journalKeyCode": 36,
-    "topicsKey": {
-        "keyCode": 23,
-        "isShiftDown": false,
-        "isAltDown": false,
-        "isControlDown": false
-    },
-    "questsKey": {
-        "keyCode": 22,
-        "isShiftDown": false,
-        "isAltDown": false,
-        "isControlDown": false
-    }
-}
+{"journalKeyCode":36,"topicsKey":{"keyCode":23,"isShiftDown":false,"isAltDown":false,"isControlDown":false},"questsKey":{"keyCode":22,"isShiftDown":false,"isAltDown":false,"isControlDown":false}}

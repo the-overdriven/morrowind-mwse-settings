@@ -9,16 +9,16 @@
   },
   "blocked":[],
   "slider":5,
+  "dropDown":0,
   "npcs":[],
+  "switch":3,
+  "sliderpercent":50,
+  "onOff":true,
   "key":{
     "keyCode":38,
     "isShiftDown":false,
     "isAltDown":false,
     "isControlDown":false
   },
-  "switch":3,
-  "dropDown":0,
-  "onOff":true,
-  "sliderpercent":50,
   "textfield":"hello"
 }

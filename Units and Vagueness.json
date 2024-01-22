@@ -2,10 +2,10 @@
   "useSmallerUnits":1,
   "version":0.98,
   "useVagueGold":3,
-  "hidePettyItemValues":false,
+  "hidePettyItemValues":true,
   "useUnitConversionType":1,
   "potionsInMilliLitres":true,
   "useWeightGoldRatio":false,
-  "summarizeStacks":0,
-  "useSoldItemValues":true
+  "useSoldItemValues":true,
+  "summarizeStacks":0
 }

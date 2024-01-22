@@ -1,0 +1,12 @@
+{
+  "blacklist":{
+    "ashfall.esp":true
+  },
+  "debug":false,
+  "logLevel":"INFO",
+  "maxSteepnessTall":5,
+  "maxSteepnessFlat":50,
+  "orientOnDeath":true,
+  "enabled":true,
+  "noOrientNonStatic":false
+}
